@@ -1,0 +1,7 @@
+# Defines ppath to training and validation datasets, please change according to where datasets are located.
+
+train: ../star_Handgun_Dataset/train/images
+val: ../star_Handgun_Dataset/valid/images
+
+nc: 1
+names: ['Handgun']

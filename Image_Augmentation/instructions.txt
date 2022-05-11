@@ -1,0 +1,19 @@
+Explanation of the file.
+
+Data Augmentation files
+(Image paths are relative to the current directory.)
+
+gaussian_blur.py:
+Applies a Gaussian Blur to a single image.
+
+random_cutout.py:
+Applies 10 random small black boxes to an image.
+
+random_noise.py:
+Applies salt & pepper noise to an image
+
+rename_files.py:
+A function to rename files (can ignore this)
+
+num_of_files.py:
+Calculates the number of files in the directory (can ignore this)

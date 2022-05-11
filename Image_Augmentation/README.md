@@ -1,0 +1,2 @@
+#Image Augmentations
+###### The image augmentations in this directory are not an exhaustive list, and some pre-processing and augmentations were done using Roboflows annotation tool. These programs were used when I needed to change the settings.
