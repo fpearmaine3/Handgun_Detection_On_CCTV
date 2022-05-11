@@ -1,4 +1,4 @@
-#Instructions on how to find the code I wrote is below (for attention):
+# Instructions on how to find the code I wrote is below (for attention):
 
 There are two folder, one for each attention mechanism. Each folder has a Jupyter notebook, that shows the training performance and metrics.
 
